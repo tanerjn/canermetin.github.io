@@ -4,3 +4,4 @@
 
 layout: home
 ---
+![Guneydogu](auto-2.jpg){:class="img-responsive"}
